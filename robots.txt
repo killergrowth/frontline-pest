@@ -1,0 +1,6 @@
+# robots.txt — demo/private build. Do not index.
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://frontline-pest.pages.dev/sitemap.xml
